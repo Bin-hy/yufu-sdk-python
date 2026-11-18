@@ -38,8 +38,8 @@ Before a release:
 4. Tag and push:
 
    ```bash
-   git tag v0.1.3
-   git push origin v0.1.3
+   git tag v0.1.4
+   git push origin v0.1.4
    ```
 
 PyPI versions are immutable. Never re-tag a version that was already published;
