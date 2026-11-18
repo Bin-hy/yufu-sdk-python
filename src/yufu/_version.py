@@ -3,4 +3,4 @@
 The version follows SemVer independently of the yufu server version.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"

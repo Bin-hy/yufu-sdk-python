@@ -2,7 +2,7 @@
 
 This document records how the Python Runtime SDK maps the Go reference
 implementation and the shared contract fixtures. It is the implementation plan
-that was used for `0.1.0`.
+that was used for the `0.1.x` line.
 
 ## Goals
 
